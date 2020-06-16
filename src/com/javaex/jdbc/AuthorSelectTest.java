@@ -67,7 +67,7 @@ public class AuthorSelectTest {
 				System.out.println("error:" + e);
 			}
 
-		}
+		}//close
 
 	}
 
